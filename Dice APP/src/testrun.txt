@@ -1,0 +1,15 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62344 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-5-program-2-dice-app-jsonnek/out/production/Dice APP Main
+Would you like to roll the dice? (y/n):
+yes
+Die 1: 2
+Die 2: 4
+Sum: 6
+Roll again? (y/n): y
+
+Die 1: 1
+Die 2: 5
+Sum: 6
+Roll again? (y/n): n
+
+
+Process finished with exit code 0
